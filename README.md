@@ -10,3 +10,4 @@ I want to learn GitHub branches and pull requests.
 - Practice HTML and CSS.
 - Build a small JavaScript project.
 - Save progress on GitHub.
+- Review my progress every week.
